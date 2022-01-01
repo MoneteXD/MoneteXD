@@ -1,4 +1,1 @@
--Soy Monete, la reencarnación de MCLovin
--Me Gustan los gatos 
--Soy Dueño de un Bot (Armin-Bot) 
--Estoy aprendiendo lenguajes de programación
+Soy Monete.Me gustan los michis, Tengo un bot en desarrollo, Armin-Bot. Soy Owner de HickCraft y moderador oficial de OriginsCraft.
